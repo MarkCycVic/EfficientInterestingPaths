@@ -1,5 +1,5 @@
 # EfficientInterestingPaths
-Code associated to the thesis Efficient Computations of Interesting Paths
+Code associated to the thesis Efficient Computations of Interesting Paths. The article is found in preprint [here](https://www.overleaf.com/read/qgnhrpfnmsdz#9c0884).
 
 For thesis figures, refer to Thesis_Figures.nb for the implementation, and the Images folder for the actual figures in jpg format.
 
